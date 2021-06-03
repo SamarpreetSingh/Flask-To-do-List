@@ -1,7 +1,7 @@
 # Flask ToDo List
 
 A basic Flask CRUD application to keep track of our daily tasks.
-It uses Sqlite database with help of flask_sqlalchemy extension
+It uses Sqlite database with help of flask_sqlalchemy extension.\n
 Deployed on Heroku:
 https://flaskcrudappsamar.herokuapp.com/
 
